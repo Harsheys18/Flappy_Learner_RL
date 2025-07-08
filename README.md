@@ -32,6 +32,13 @@ cd Flappy_Learner_RL
 python flappy.py  # Use UP-Arrow to move up and avoid the pipes
 ```
 
+```bash
+python train_agent.py # For training the agent
+```
+
+```bash
+python evaluate_agent.py # For training the agent
+```
 ---
 
 ## Credits
