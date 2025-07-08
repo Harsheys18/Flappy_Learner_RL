@@ -31,3 +31,8 @@ git clone https://github.com/Harsheys18/Flappy_Learner_RL
 cd Flappy_Learner_RL
 python flappy.py  # Use UP-Arrow to move up and avoid the pipes
 ```
+
+---
+
+## Credits
+I have taken the flappy Bird game from https://github.com/LeonMarqs/Flappy-bird-python | Credit for the game goes to him
